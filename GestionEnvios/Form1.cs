@@ -228,6 +228,7 @@ namespace GestionEnvios
                     e.Cancel = true; // Cancelar el cierre del formulario
                 }
             }
+            MessageBox.Show("Programa creado por Diego Alessandro Martínez MM261888, POO104 G01L", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         //Métodos de apoyo
